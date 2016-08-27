@@ -15,6 +15,7 @@
   font-weight: normal;
   color: #FFF;
   text-transform: lowercase;
+  letter-spacing: 2px;
 }
 
 .jumbotron a:hover {
@@ -22,6 +23,15 @@
   text-decoration: none;
   letter-spacing:
 }
+
+.lead {
+  font-weight: lighter;
+  color: #e6e6e6;
+  text-transform: lowercase;
+  letter-spacing: 3px;
+  font-size: 15px;
+}
+
 
 h3 {
   color: #79d279;
