@@ -1,0 +1,31 @@
+.jumbotron {
+  margin-top: 10px;
+  background-color: #264d73;
+  border: 0.1px solid #0d1a26;
+  text-transform: uppercase;
+}
+
+.jumbotron h2 {
+  color: #79d279;
+  font-weight: normal;
+  letter-spacing: 4px;
+}
+
+.jumbotron a {
+  font-weight: normal;
+  color: #FFF;
+  text-transform: lowercase;
+}
+
+.jumbotron a:hover {
+  color: #79d279;
+  text-decoration: none;
+  letter-spacing:
+}
+
+h3 {
+  color: #79d279;
+  font-weight: normal;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
