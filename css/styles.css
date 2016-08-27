@@ -31,11 +31,39 @@
   letter-spacing: 3px;
   font-size: 15px;
 }
+body {
+  color: #bfbfbf;
+}
 
+figcaption {
+  font-size: 12px;
+  color: #d9d9d9;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  font-style: italic;
+}
+
+hr {
+  padding-top:
+  padding-bottom:
+}
 
 h3 {
-  color: #79d279;
+  color: #264d73;
   font-weight: normal;
   letter-spacing: 4px;
   text-transform: uppercase;
+}
+
+.gh-links a {
+  font-weight: normal;
+  color: #79d279;
+  text-transform: lowercase;
+  letter-spacing: 2px;
+}
+
+.gh-links a:hover {
+  color: #264d73;
+  text-decoration: none;
+  letter-spacing:
 }
