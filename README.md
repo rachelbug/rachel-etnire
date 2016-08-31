@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a website created to showcase a bit of who I am.  I am hopeful I can continue to work on it and use it as a professional portfolio, but for the purposes of this assignment, you will find out a bit about me, my cat, my hobbies, and find links to my Github repos._
+_This is a website created to showcase a bit of who I am.  I am hopeful I can continue to work on it and use it as a professional portfolio, but for the purposes of this assignment, you will find out a bit about me, my cat, my hobbies, and find links to my Github repos.  You can access this page by clicking the following [link](https://rachelbug.github.io/rachel-etnire/)._
 
 ## Setup/Installation Requirements
 
